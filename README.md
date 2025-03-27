@@ -13,7 +13,7 @@ pip install -r requirements.txt
    ```bash
    git clone https://github.com/your-username/your-repo.git
    ```
-2. Navigate to the desired assignment folder and explore the Jupyter notebooks (`.ipynb`) or scripts (`.py`).  
+2. Navigate to the desired assignment folder and explore the Jupyter notebooks (`.ipynb`).  
 
 ## ✨ Contributions  
 
